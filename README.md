@@ -16,5 +16,9 @@ From ▲ to ▼
 ![image](https://user-images.githubusercontent.com/114529109/213885522-3677ca0e-cc7d-4297-b1d5-01157e3dcdaf.png)
 
 This is the color scale:
+
 https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg
+
 found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
+
+The dataset only has colors from D - J; AKA colorless to near colorless.
