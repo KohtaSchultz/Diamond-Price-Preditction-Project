@@ -2,9 +2,21 @@
 I'm going to figure out what contributes to the price of a diamond.
 
 # Hypothesis:
-It's more than just the carats, cut, or color of a diamond that raises/ lowers the price of a diamond.
+It's more than just the carats, cut, or color of a diamond that raises/ lowers the price of a diamond
 
 # Step 1: Learn about diamonds:
+
+Carat:
+
+Carat is simply the weight of a  diamond. Below is a chart to help visualize the carat of a diamond.
+
+https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg
+
+found on: [this site](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
+
+Cut:
+
+Color:
 
 This is the color scale:
 
@@ -13,6 +25,8 @@ https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg
 found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
 
 The dataset only has colors from D - J; AKA colorless to near colorless.
+
+Clarity:
 
 # Step 2: narrow down dataset through querying:
 I uploaded a [dataset](https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond) from Kaggle into BigQuery to figure some things out about the data.
