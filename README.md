@@ -62,9 +62,19 @@ https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg
 
 found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
 
-The dataset only has colors from D - J; AKA colorless to near colorless. Although color can be scaled all the way down to 'Z', the person that compiled this dataset decided to only use diamonds that rank high on thr color scale.
+The dataset only has colors from D - J; AKA colorless to near colorless. Although color can be scaled all the way down to 'Z', the person that compiled this dataset decided to only use diamonds that rank high on the color scale.
 
 Clarity:
+
+    "Flawless (FL) No inclusions and no blemishes visible under 10x magnification
+    Internally Flawless (IF) No inclusions visible under 10x magnification
+    Very, Very Slightly Included (VVS1 and VVS2) Inclusions so slight they are difficult for a skilled grader to see under 10x magnification
+    Very Slightly Included (VS1 and VS2) Inclusions are observed with effort under 10x magnification, but can be characterized as minor
+    Slightly Included (SI1 and SI2) Inclusions are noticeable under 10x magnification
+    Included (I1, I2, and I3) Inclusions are obvious under 10x magnification which may affect transparency and brilliance"
+
+[CLarity Source](https://4cs.gia.edu/en-us/diamond-clarity/)
+
 
 # Step 2: narrow down dataset through querying:
 I uploaded a [dataset](https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond) from Kaggle into BigQuery to figure some things out about the data.
