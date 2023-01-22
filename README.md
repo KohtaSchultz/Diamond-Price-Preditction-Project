@@ -6,15 +6,53 @@ It's more than just the carats, cut, or color of a diamond that raises/ lowers t
 
 # Step 1: Learn about diamonds:
 
+This dataset only has data on "round brilliant diamonds" which account for 70% of the diamond market. These diamonds are used in things such as engagement rings.
+
 Carat:
 
 Carat is simply the weight of a  diamond. Below is a chart to help visualize the carat of a diamond.
 
 https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg
 
+This dataset goes from 0.2 carats for the minimum extrema to 5.01 at the maximum extrema. 
+
 found on: [this site](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
+"One carat is equivalent to around 200 milligrams (0.20 grams)."
 
 Cut:
+
+1. "Some professionals consider cut the most important C of diamond quality. "
+
+2. "The result was the GIA Cut Grading System, which evaluates the cut quality of a round brilliant diamond along a five-point scale ranging from Excellent to Poor.
+
+A GIA cut grade evaluates:
+
+    How the diamond appears when viewed face-up based on the attributes of brightness, fire and scintillation
+    How well the diamond was designed to ensure durability and optimal weight
+    The quality of the workmanship or craftsmanship that went into aligning and polishing the diamond’s facets"
+
+Diamond cut quality flowchart:
+https://4cs.gia.edu/wp-content/uploads/2018/04/690x460-damond-cut.jpg
+
+3: "A key component of a GIA diamond cut grade is the diamond’s face-up appearance – or how the diamond looks when viewed from above"
+
+"When you see internal and external white light reflected from a diamond, you’re noticing “brightness.” If you see the scattering of light into all the colors of the rainbow,  you’re being treated to “fire.” Sparkle is actually “scintillation,” the pattern of bright and dark areas caused by reflections within the diamond as it or the light source moves."
+
+4: "A diamond’s proportions can help predict how well a diamond will deliver brightness, fire and scintillation. However, an important outcome of GIA’s cut research was the finding that there is no single set of proportions that defines a well-cut round brilliant diamond. In fact, diamonds with different proportions can receive the same cut grade."
+
+Proportions:
+https://4cs.gia.edu/wp-content/uploads/2018/04/91622-690x460-diamond-cut-proportion-illustration.jpg
+
+5: "design and craftsmanship evaluate the quality of the diamond’s manufacture. Poor design could add unnecessary weight to a diamond or cause durability issues"
+  "Design refers to decisions made during the fashioning process that determine the diamond’s physical shape, as seen in its proportions, weight ratio and durability."
+  "Durability in the case of a round brilliant diamond refers to the risk of damage that might result from an extremely thin girdle."
+  "Craftsmanship describes the care that went into fashioning the diamond, as seen in its polish and symmetry."
+
+6: "GIA evaluates a round brilliant diamond’s cut based on seven components – brightness, fire, scintillation, weight ratio, durability, polish and symmetry – to arrive at a GIA diamond cut grade, which ranges from Excellent to Poor. The grade is set by the lowest assessment the diamond receives for five of the seven components."
+
+https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg
+
+[Cut scale source](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
 
 Color:
 
@@ -24,7 +62,7 @@ https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg
 
 found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
 
-The dataset only has colors from D - J; AKA colorless to near colorless.
+The dataset only has colors from D - J; AKA colorless to near colorless. Although color can be scaled all the way down to 'Z', the person that compiled this dataset decided to only use diamonds that rank high on thr color scale.
 
 Clarity:
 
