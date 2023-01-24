@@ -8,7 +8,7 @@ It's more than just the carats, cut, or color of a diamond that raises/ lowers t
 
 This dataset only has data on "round brilliant diamonds" which account for 70% of the diamond market. These diamonds are used in things such as engagement rings.
 
-Carat:
+    # Carat:
 
 Carat is simply the weight of a  diamond. Below is a chart to help visualize the carat of a diamond.
 
@@ -19,7 +19,7 @@ This dataset goes from 0.2 carats for the minimum extrema to 5.01 at the maximum
 found on: [this site](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
 "One carat is equivalent to around 200 milligrams (0.20 grams)."
 
-Cut:
+    # Cut:
 
 1. "Some professionals consider cut the most important C of diamond quality. "
 
@@ -54,7 +54,7 @@ https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg
 
 [Cut scale source](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
 
-Color:
+    # Color:
 
 This is the color scale:
 
@@ -64,7 +64,7 @@ found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
 
 The dataset only has colors from D - J; AKA colorless to near colorless. Although color can be scaled all the way down to 'Z', the person that compiled this dataset decided to only use diamonds that rank high on the color scale.
 
-Clarity:
+    # Clarity:
 
     "Flawless (FL) No inclusions and no blemishes visible under 10x magnification
     Internally Flawless (IF) No inclusions visible under 10x magnification
