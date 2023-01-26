@@ -75,6 +75,10 @@ The dataset only has colors from D - J; AKA colorless to near colorless. Althoug
 
 [CLarity Source](https://4cs.gia.edu/en-us/diamond-clarity/)
 
+The highest quality of diamond: "FL" isn't in the dataset, as well as "I2" and "I3", the lowest two levels of clarity.
+
+![image](https://user-images.githubusercontent.com/114529109/214884594-ca20dbef-e78c-40f8-b1ba-99af1651125c.png)
+
 
 # Step 2: narrow down dataset through querying:
 I uploaded a [dataset](https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond) from Kaggle into BigQuery to figure some things out about the data.
