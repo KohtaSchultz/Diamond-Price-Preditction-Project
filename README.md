@@ -22,6 +22,7 @@ found on: [this site](https://yourdiamondguru.com/wp-content/uploads/2018/01/Dia
    # Cut:
 
 1. "Some professionals consider cut the most important C of diamond quality. "
+I intend to find out whether this will turn out to be true, according to the data.
 
 2. "The result was the GIA Cut Grading System, which evaluates the cut quality of a round brilliant diamond along a five-point scale ranging from Excellent to Poor.
 
@@ -53,6 +54,8 @@ https://4cs.gia.edu/wp-content/uploads/2018/04/91622-690x460-diamond-cut-proport
 https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg
 
 [Cut scale source](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
+
+*The dataset goes from Fair, Good, Very Good, Premium, then Ideal, unlike the GIS scale.*
 
    # Color:
 
