@@ -82,6 +82,15 @@ The highest quality of diamond: "FL" isn't in the dataset, as well as "I2" and "
 
 ![image](https://user-images.githubusercontent.com/114529109/214884594-ca20dbef-e78c-40f8-b1ba-99af1651125c.png)
 
+   # Table and Depth
+      *Ideal Percentages*
+      Depth is how tall the diamond is from the flat table at the top to the point (aka culet) at the bottom, and depth *percentage* is:
+      "Depth percentage is calculated by dividing the diamond’s total height by its total width. The deeper the diamond’s depth, the higher the diamond’s depth percentage."
+    "For a round diamond, an ideal depth percentage is between 59 and 62.6 percent"
+      Table is the flat surface at the face of the diamond. 100% is the diameter of the girdle.
+    "For a round cut diamond, an excellent table range is 54 and 57 percent "
+    
+ [source](https://www.diamonds.pro/education/diamond-depth-and-table/)
 
 # Step 2: narrow down dataset through querying:
 I uploaded a [dataset](https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond) from Kaggle into BigQuery to figure some things out about the data.
