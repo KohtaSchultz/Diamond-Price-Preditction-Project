@@ -16,7 +16,7 @@ Carat is simply the weight of a  diamond. Below is a chart to help visualize the
 
 This dataset goes from 0.2 carats for the minimum extrema to 5.01 at the maximum extrema. 
 
-found on: [this site](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
+found on: [this site](https://yourdiamondguru.com/carat/)
 "One carat is equivalent to around 200 milligrams (0.20 grams)."
 
    # Cut:
@@ -51,7 +51,7 @@ A GIA cut grade evaluates:
 
 ![Cut Scale Image](https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg)
 
-[Cut scale source](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
+[Source for this section](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
 
 *The dataset goes from Fair, Good, Very Good, Premium, then Ideal, unlike the GIS scale.*
 
