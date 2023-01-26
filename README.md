@@ -76,7 +76,7 @@ The dataset only has colors from D - J; AKA colorless to near colorless. Althoug
 
 The highest quality of diamond: "FL" isn't in the dataset, as well as "I2" and "I3", the lowest two levels of clarity.
 
-[image](https://user-images.githubusercontent.com/114529109/214884594-ca20dbef-e78c-40f8-b1ba-99af1651125c.png)
+![image](https://user-images.githubusercontent.com/114529109/214884594-ca20dbef-e78c-40f8-b1ba-99af1651125c.png)
 
    # Table and Depth
       *Ideal Percentages*
