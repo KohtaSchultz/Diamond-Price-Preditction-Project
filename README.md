@@ -12,7 +12,7 @@ This dataset only has data on "round brilliant diamonds" which account for 70% o
 
 Carat is simply the weight of a  diamond. Below is a chart to help visualize the carat of a diamond.
 
-[Visual representation of Carat](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
+![Visual representation of Carat](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
 
 This dataset goes from 0.2 carats for the minimum extrema to 5.01 at the maximum extrema. 
 
@@ -32,7 +32,7 @@ A GIA cut grade evaluates:
     How well the diamond was designed to ensure durability and optimal weight
     The quality of the workmanship or craftsmanship that went into aligning and polishing the diamond’s facets"
 
-[Diamond cut quality flowchart](https://4cs.gia.edu/wp-content/uploads/2018/04/690x460-damond-cut.jpg)
+![Diamond cut quality flowchart](https://4cs.gia.edu/wp-content/uploads/2018/04/690x460-damond-cut.jpg)
 
 3: "A key component of a GIA diamond cut grade is the diamond’s face-up appearance – or how the diamond looks when viewed from above"
 
@@ -40,7 +40,7 @@ A GIA cut grade evaluates:
 
 4: "A diamond’s proportions can help predict how well a diamond will deliver brightness, fire and scintillation. However, an important outcome of GIA’s cut research was the finding that there is no single set of proportions that defines a well-cut round brilliant diamond. In fact, diamonds with different proportions can receive the same cut grade."
 
-[Proportions Image](https://4cs.gia.edu/wp-content/uploads/2018/04/91622-690x460-diamond-cut-proportion-illustration.jpg)
+![Proportions Image](https://4cs.gia.edu/wp-content/uploads/2018/04/91622-690x460-diamond-cut-proportion-illustration.jpg)
 
 5: "design and craftsmanship evaluate the quality of the diamond’s manufacture. Poor design could add unnecessary weight to a diamond or cause durability issues"
   "Design refers to decisions made during the fashioning process that determine the diamond’s physical shape, as seen in its proportions, weight ratio and durability."
@@ -49,7 +49,7 @@ A GIA cut grade evaluates:
 
 6: "GIA evaluates a round brilliant diamond’s cut based on seven components – brightness, fire, scintillation, weight ratio, durability, polish and symmetry – to arrive at a GIA diamond cut grade, which ranges from Excellent to Poor. The grade is set by the lowest assessment the diamond receives for five of the seven components."
 
-[Cut Scale Image](https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg)
+![Cut Scale Image](https://4cs.gia.edu/wp-content/uploads/2018/04/162517-690x460-cut-scale.jpg)
 
 [Cut scale source](https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/#how-GIA-assigns-diamond-cut-grade)
 
@@ -57,7 +57,7 @@ A GIA cut grade evaluates:
 
    # Color:
 
-[This is the color scale](https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg)
+![This is the color scale](https://www.cleanorigin.com/blog/wp-content/uploads/2022/01/Diamond-Color.jpeg)
 
 found on: [this site](https://www.cleanorigin.com/blog/diamond-color/)
 
