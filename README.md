@@ -93,7 +93,9 @@ I uploaded a [dataset](https://www.kaggle.com/datasets/swatikhedekar/price-predi
 The descriptions for each column were lacking once uploaded, so I copy/pasted from the Kaggle page to the descriptions in BQ.
 ![image](https://user-images.githubusercontent.com/114529109/213885553-ca292309-64ce-4b18-a97d-3ce287c880e4.png)
 
+
 Narrowed down to the best diamonds:
+
 ![image](https://user-images.githubusercontent.com/114529109/214903478-be2e404b-d625-4fea-8d0c-08b7c6a36d9e.png)
 
 
