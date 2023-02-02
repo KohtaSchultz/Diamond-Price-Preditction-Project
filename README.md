@@ -14,7 +14,7 @@ Carat is simply the weight of a  diamond. Below is a chart to help visualize the
 
 ![Visual representation of Carat](https://yourdiamondguru.com/wp-content/uploads/2018/01/Diamond-Carat-Chart-1.jpg)
 
-This dataset goes from 0.2 carats for the minimum extrema to 5.01 at the maximum extrema. 
+This dataset goes from 0.2 carats for the min to 5.01 at the max. 
 
 found on: [this site](https://yourdiamondguru.com/carat/)
 "One carat is equivalent to around 200 milligrams (0.20 grams)."
@@ -107,5 +107,5 @@ From ▲ to ▼
 
 
 # Conclusion
-The carat of a diamons is the single most important factor in the price of a diamond. Color is the second most "important" farctor and is a far cry from actually driving the price up or down.
+The carat of a diamond is the single most important factor in the price of a diamond. Color is the second most "important" farctor and is a far cry from actually driving the price compared to carat.
 [Proof](https://deepnote.com/workspace/uni-b780-ef93fdef-c706-47b3-b054-4b4a1e6442fe/project/Untitled-project-a8827c41-a145-4d77-8d43-44dc51b02862/notebook/Notebook%201-ba1dfcd423ac4559abb9ce51cf3a7b03)
