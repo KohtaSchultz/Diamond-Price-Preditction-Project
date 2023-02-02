@@ -105,5 +105,7 @@ From ▲ to ▼
 
 ![image](https://user-images.githubusercontent.com/114529109/213885522-3677ca0e-cc7d-4297-b1d5-01157e3dcdaf.png)
 
+
+# Conclusion
 The carat of a diamons is the single most important factor in the price of a diamond. Color is the second most "important" farctor and is a far cry from actually driving the price up or down.
 [Proof](https://deepnote.com/workspace/uni-b780-ef93fdef-c706-47b3-b054-4b4a1e6442fe/project/Untitled-project-a8827c41-a145-4d77-8d43-44dc51b02862/notebook/Notebook%201-ba1dfcd423ac4559abb9ce51cf3a7b03)
