@@ -84,7 +84,9 @@ The highest quality of diamond: "FL" isn't in the dataset, as well as "I2" and "
       "Depth percentage is calculated by dividing the diamond’s total height by its total width. The deeper the diamond’s depth, the higher the diamond’s depth percentage."
     "For a round diamond, an ideal depth percentage is between 59 and 62.6 percent"
       Table is the flat surface at the face of the diamond. 100% is the diameter of the girdle.
-    "For a round cut diamond, an excellent table range is 54 and 57 percent "
+    "For a round cut diamond, an excellent table range is 54 and 57 percent " 
+    x is length, y is width, and z is depth. Z shouldn't be confused with depth because z is the total depth while depth is short for the depth percentage.
+   
     
  [source](https://www.diamonds.pro/education/diamond-depth-and-table/)
 
