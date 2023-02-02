@@ -1,5 +1,6 @@
 # Diamond-Price-Preditction-Project
 I'm going to figure out what contributes to the price of a diamond.
+Link to notebook at the bottom of the page.
 
 # Hypothesis:
 It's more than just the carats, cut, or color of a diamond that raises/ lowers the price of a diamond
